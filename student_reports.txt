@@ -1,0 +1,11 @@
+
+----- STUDENT REPORT -----
+Student Name  : Ragi
+Maths Marks   : 35
+Science Marks : 90
+English Marks : 95
+Total Marks   : 220 / 300
+Average Marks : 73.33%
+Grade         : B
+Result Status : PASS
+--------------------------
